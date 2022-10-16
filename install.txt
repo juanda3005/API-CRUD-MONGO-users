@@ -1,0 +1,6 @@
+npm i express mongoose morgan body-parser 
+
+npm i nodemon -D
+
+npm i express-promise-router
+//manejar los erores de las funciones asincronas
